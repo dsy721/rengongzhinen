@@ -1,0 +1,11 @@
+{
+  "exp_name": "unlearn_npo_sam_r05",
+  "method": "npo",
+  "tuning": "full",
+  "sam": "true",
+  "train_time_sec": 92.8298830986023,
+  "peak_mem_mb": 26289.07421875,
+  "trainable_params": 1543714304,
+  "total_params": 1543714304,
+  "trainable_ratio": 1.0
+}

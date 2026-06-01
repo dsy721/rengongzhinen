@@ -1,0 +1,11 @@
+{
+  "exp_name": "sam_smoke",
+  "method": "graddiff",
+  "tuning": "full",
+  "sam": "true",
+  "train_time_sec": 7.5463855266571045,
+  "peak_mem_mb": 23344.671875,
+  "trainable_params": 1543714304,
+  "total_params": 1543714304,
+  "trainable_ratio": 1.0
+}

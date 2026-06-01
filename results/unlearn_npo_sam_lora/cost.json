@@ -1,0 +1,11 @@
+{
+  "exp_name": "unlearn_npo_sam_lora",
+  "method": "npo",
+  "tuning": "lora",
+  "sam": "true",
+  "train_time_sec": 121.40462327003479,
+  "peak_mem_mb": 10063.5517578125,
+  "trainable_params": 9232384,
+  "total_params": 1552946688,
+  "trainable_ratio": 0.005945074657965335
+}

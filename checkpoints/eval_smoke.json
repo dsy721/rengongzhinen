@@ -1,0 +1,37 @@
+{
+  "model_path": "checkpoints/target",
+  "forget_split": "forget01_perturbed",
+  "forget": {
+    "truth_ratio": [
+      2.0951653231426475,
+      5.336832238480978,
+      2.036876453664755,
+      0.4341279760628528
+    ],
+    "rougeL_recall": 1.0,
+    "probability": 0.5724755055033186,
+    "n": 4
+  },
+  "utility": {
+    "retain": {
+      "probability": 0.7352228714238522,
+      "rougeL_recall": 0.8337053571428572,
+      "truth_ratio": 0.190692003530457,
+      "n": 4
+    },
+    "real_authors": {
+      "probability": 0.42398320744055895,
+      "rougeL_recall": 0.7916666666666666,
+      "truth_ratio": 0.6258643828299677,
+      "n": 4
+    },
+    "world_facts": {
+      "probability": 0.1737659212198562,
+      "rougeL_recall": 0.75,
+      "truth_ratio": 0.3159798825287742,
+      "n": 4
+    },
+    "Model Utility": 0.38666193453005665
+  },
+  "Forget Quality": null
+}

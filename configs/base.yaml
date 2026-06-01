@@ -1,0 +1,15 @@
+# TODO: 基础配置文件，定义实验与训练的默认参数。
+model_name: "Qwen/Qwen2.5-1.5B-Instruct"
+max_length: 128
+seed: 42
+output_dir: "checkpoints"
+bf16: false
+fp16: true
+gradient_checkpointing: true
+batch_size: 4
+grad_accum: 4
+lr: 1.0e-5
+epochs: 5
+lambda_retain: 1.0
+beta: 0.1
+rho: 0.01
